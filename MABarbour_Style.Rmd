@@ -3,7 +3,7 @@
 #title: "Manuscript Template"
 #subtitle: "Subtitles aren't common in manuscripts..."
 #author: 
-#- Matthew A. Barbour$^{1,2,\ast}$ 
+#- Matthew A. Barbour$^{1,\ast}$ 
 # for compatability across document formats use 'date' for affiliations, as recommended by https://github.com/rstudio/bookdown/issues/348, with | to create new sections.
 #date: | 
 #    | 1. Affiliation
@@ -68,7 +68,7 @@ library(cowplot) # built off ggplot2, but with publication quality defaults
 
 \bigskip
 
-\begin{center} \large Matthew A. Barbour$^{1,2,\ast}$ \normalsize \end{center}
+\begin{center} \large Matthew A. Barbour$^{1,\ast}$ \normalsize \end{center}
 
 \bigskip
 
